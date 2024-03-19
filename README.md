@@ -2,7 +2,7 @@
 
 Es una pagina web para una tienda de café donde tiene 4 pestañas principales: 
 
-**Index: **Página principal donde muestra los curso de café, sus precios y los cupos disponibles. 
+**Index:** Página principal donde muestra los curso de café, sus precios y los cupos disponibles. 
 
 ------------
 
